@@ -18,3 +18,43 @@ This Repository contains cheat sheet for SAP ABAP.
 - `SMARTFORMS` - Smart Forms Builder
 - `SFP` - Abode Form/Interface Builder
 - `AL11` - SAP Directories
+
+
+
+### SAP Training Topics and Structure
+
+- ##### ABAP Data Dictionary
+  - **Tables**
+  - **Views**
+    - Projection View
+    - Database View
+    - Maintenance View
+    - Help View
+  - **Data Types**
+    - Structures
+    - Table Types
+    - Data Elements
+  - **Search Helps**
+    - Elementary Search Help
+    - Collective Search Help
+  - **Lock Objects**
+  - **Type Groups**
+  - **Domains**
+- ##### ABAP Reports
+  - **Basic Syntax**
+  - **User Inputs**
+  - **Selection Screen**
+  - **Control Break Statements**
+  - **Subroutines**
+  - **Function Modules**
+  - **Events**
+  - **Interactive Reports**
+  - **ABAP List Viewer (ALV) Reports**
+  - **ABAP File Handling**
+- ##### ABAP OOPS
+  - **Class Definition and Implementation**
+  - **Inheritence**
+  - **Interfaces**
+- ##### ABAP Forms
+  - **Smartforms**
+  - **Adobe Forms**
