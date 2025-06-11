@@ -5,7 +5,7 @@ This Repository contains cheat sheet for SAP ABAP.
 
 - `SE11` - Data Dictionary (DDIC)
 - `SE24` - Class Builder
-- `SE37` - Function Module
+- `SE37` - Function Module Builder
 - `SE41` - Menu Painter
 - `SE51` - Screen Painter
 - `SE38` - ABAP Editor
@@ -21,6 +21,10 @@ This Repository contains cheat sheet for SAP ABAP.
 - `PFCG` - Role Maintenance
 - `RSRT` - Query Monitor
 - `/n/ui2/flp` - FIORI Launchpad
+- `SEGW` - Gateway Builder (To Create O-Data Service)
+- `/n/IWFND/MAINT_SERVICE` - To Register the O-Data Service
+- `/n/IWFND/GW_CLIENT` - To Test O-Data Service
+- `/n/IWFND/ERROR_LOG` - To check the log file for errors
 
 
 ### SAP Training Topics and Structure
