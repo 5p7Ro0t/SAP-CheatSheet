@@ -25,6 +25,7 @@ This Repository contains cheat sheet for SAP ABAP.
 - `/n/IWFND/MAINT_SERVICE` - To Register the O-Data Service
 - `/n/IWFND/GW_CLIENT` - To Test O-Data Service
 - `/n/IWFND/ERROR_LOG` - To check the log file for errors
+- `/n/IWFND/CLEAR_CACHE` - To clear the gateway 
 
 
 ### SAP Training Topics and Structure
