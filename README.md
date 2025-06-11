@@ -18,7 +18,9 @@ This Repository contains cheat sheet for SAP ABAP.
 - `SMARTFORMS` - Smart Forms Builder
 - `SFP` - Abode Form/Interface Builder
 - `AL11` - SAP Directories
-
+- `PFCG` - Role Maintenance
+- `RSRT` - Query Monitor
+- `/n/ui2/flp` - FIORI Launchpad
 
 
 ### SAP Training Topics and Structure
